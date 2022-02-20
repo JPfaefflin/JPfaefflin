@@ -6,4 +6,4 @@
 - 💬 Ask me about Java
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like playing Video Games!
-- Why am I studying a IT related subject? -> Always been interested in new technology (as well as video games)
+- ⌨️ Why am I studying a IT related subject? -> Always been interested in new technology (as well as video games)
