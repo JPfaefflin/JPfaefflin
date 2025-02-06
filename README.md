@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Python script, that lets the Twitch chat interact with Minecraft
-- 🌱 I’m currently learning Python, Unity and Blender
-- 🤔 I’m looking for help with Unity
-- 💬 Ask me about Java
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like playing Video Games!
-- ⌨️ Why am I studying a IT related subject? -> Always been interested in new technology (as well as video games)
+- 🔭 I’m currently working on a Next.js web platform for eSports teams, comparing its performance to a WordPress version for my thesis.
+- 🌱 I’m exploring Prisma, PostgreSQL, and Next.js 15 for web development.
+- 🎮 I’m the leader and founder of the eSports team at Hochschule Pforzheim, playing League of Legends competitively.
+- 🤝 Open to discussions about web development, gaming, and eSports management.
+- 💬 Ask me about JavaScript, web performance, and database optimization.
+- 🏍️ When I’m not coding, you’ll probably find me riding my motorcycle or competing in games.
+- ⚡ Fun fact: I daily-drive an oldtimer VW Golf II.
